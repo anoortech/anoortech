@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anoortech.
+- 👋 Hi, I’m Ahsan Noor.
 - 👀 I’m interested in AI, ML, DL, Python, Full Stack Web Development.
 - 🌱 I’m currently learning Front-End.
 - 💞️ I’m looking to collaborate on AI Research and Web Dev.
