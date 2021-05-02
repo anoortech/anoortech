@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ahsan Noor.
-- 👀 I’m interested in AI, ML, DL, Python, Full Stack Web Development.
+- 👋 Hi, I’m Alizay Noor.
+- 👀 I’m interested in Learning Full Stack Web Development.
 - 🌱 I’m currently learning Front-End.
-- 💞️ I’m looking to collaborate on AI Research and Web Dev.
-- 📫 How to reach me -> Twitter Handle: @AhsanNoor31
+- 💞️ I’m looking to collaborate Web Dev Learning.
+- 📫 How to reach me -> Twitter Handle: @ANoorTech
 
 <!---
 anoortech/anoortech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
