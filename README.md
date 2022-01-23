@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alizay Noor.
-- 👀 I’m interested in Learning Full Stack Web Development.
+- 👀 Self Learning Web Development.
 - 🌱 I’m currently learning Front-End.
-- 💞️ I’m looking to collaborate Web Dev Learning.
+- 💞️ Looking forward to learn with fellow devs.
 - 📫 How to reach me -> Twitter Handle: @ANoorTech
 
 <!---
