@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alizay Noor.
+- 👋 Hi, ANoorTech here.
 - 👀 Self Learning Web Development.
 - 🌱 I’m currently learning Front-End.
 - 💞️ Looking forward to learn with fellow devs.
