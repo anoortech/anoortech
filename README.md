@@ -2,7 +2,7 @@
 - 👀 Self Learning Web Development.
 - 🌱 I’m currently learning Front-End.
 - 💞️ Looking forward to learn with fellow devs.
-- 📫 How to reach me -> Twitter Handle: @ANoorTech
+- 📫 Twitter/X Handle: @ANoorTech
 
 <!---
 anoortech/anoortech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
